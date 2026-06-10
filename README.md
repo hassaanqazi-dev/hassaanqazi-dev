@@ -63,23 +63,44 @@ Enterprise-scale legal automation system with 1,500+ tools for document processi
 ### ☁️ DevOps & Cloud
 `Docker` • `Linux` • `CI/CD` • `GitHub Actions` • `Cloud Deployment`
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hassaanqazi-dev&show_icons=true&include_all_commits=true&theme=radical&v=2" 
-  />
-</p>
+<!-- GitHub Overall Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaanqazi-dev&show_icons=true&theme=radical&include_all_commits=true" />
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=hassaanqazi-dev&theme=radical" 
-  />
-</p>
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanqazi-dev&layout=compact&theme=radical" />
 
----
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=hassaanqazi-dev&theme=radical&hide_border=false" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanqazi-dev&theme=react-dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=hassaanqazi-dev&theme=radical&no-frame=true&row=1&column=7" />
+
+</div>
 
 ## 🌱 Currently Building
 
