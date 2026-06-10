@@ -67,38 +67,70 @@ Enterprise-scale legal automation system with 1,500+ tools for document processi
 
 <div align="center">
 
-<!-- GitHub Overall Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaanqazi-dev&show_icons=true&theme=radical&include_all_commits=true" />
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanqazi-dev&layout=compact&theme=radical" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=hassaanqazi-dev&theme=radical&hide_border=false" />
+  <!-- Profile Summary -->
+  <img 
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaanqazi-dev&theme=github_dark"
+  />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanqazi-dev&theme=react-dark&hide_border=true" />
+  <!-- Contribution Streak -->
+  <img 
+    width="70%"
+    src="https://streak-stats.demolab.com?user=hassaanqazi-dev&theme=dark&hide_border=true"
+  />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hassaanqazi-dev&theme=radical&no-frame=true&row=1&column=7" />
+  <!-- Contribution Activity Graph -->
+  <img 
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanqazi-dev&theme=github-dark&hide_border=true"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <!-- Languages -->
+  <img 
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaanqazi-dev&theme=github_dark"
+  />
+
+  <img 
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassaanqazi-dev&theme=github_dark"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img 
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassaanqazi-dev&theme=github_dark"
+  />
+
+  <!-- Coding Time -->
+  <img 
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassaanqazi-dev&theme=github_dark&utcOffset=5"
+  />
 
 </div>
 
