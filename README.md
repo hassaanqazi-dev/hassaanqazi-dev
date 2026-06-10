@@ -68,7 +68,7 @@ Enterprise-scale legal automation system with 1,500+ tools for document processi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassaanqazi-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassaanqazi-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 </p>
 
 <p align="center">
